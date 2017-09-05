@@ -1,0 +1,1671 @@
+2017-07-13 08:57:22,410 [Thread-3:123145550155776] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 08:57:22,413 [Thread-4:123145555410944] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 08:57:22,415 [Thread-5:123145560666112] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 08:57:22,417 [Thread-6:123145565921280] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 08:57:22,419 [Thread-7:123145571176448] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 08:57:22,433 [Thread-8:123145544900608] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 08:57:22,446 [Thread-9:123145544900608] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 08:57:22,455 [Thread-10:123145544900608] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 08:57:22,467 [Thread-11:123145550155776] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 08:57:23,340 [Thread-15:123145560666112] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 08:57:23,342 [Thread-16:123145565921280] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 08:57:23,343 [Thread-17:123145571176448] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 08:57:23,346 [Thread-14:123145555410944] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 08:57:23,347 [Thread-13:123145550155776] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 08:57:23,363 [Thread-18:123145544900608] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 08:57:23,365 [Thread-19:123145550155776] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 08:57:23,372 [Thread-20:123145555410944] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 08:57:23,386 [Thread-21:123145544900608] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 08:57:23,391 [Thread-22:123145550155776] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 08:57:23,393 [Thread-23:123145555410944] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 08:57:23,419 [Thread-24:123145544900608] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 08:57:23,431 [Thread-25:123145550155776] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 08:57:23,435 [Thread-26:123145555410944] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 08:57:23,454 [Thread-27:123145544900608] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 08:57:23,965 [Thread-29:123145550155776] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 08:57:23,972 [Thread-30:123145555410944] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 08:57:23,977 [Thread-32:123145565921280] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 08:57:23,974 [Thread-31:123145560666112] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 08:57:23,980 [Thread-33:123145571176448] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 08:57:24,004 [Thread-34:123145544900608] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 08:57:24,006 [Thread-35:123145550155776] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 08:57:24,025 [Thread-36:123145544900608] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 08:57:24,032 [Thread-38:123145555410944] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 08:57:24,035 [Thread-37:123145550155776] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 08:57:24,041 [Thread-39:123145560666112] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 08:57:24,068 [Thread-40:123145544900608] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 08:57:24,091 [Thread-41:123145550155776] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 08:57:24,095 [Thread-42:123145555410944] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 08:57:24,100 [Thread-43:123145560666112] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 08:57:24,519 [Thread-48:123145565921280] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 08:57:24,522 [Thread-46:123145555410944] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 08:57:24,524 [Thread-45:123145550155776] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 08:57:24,526 [Thread-47:123145560666112] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 08:57:24,529 [Thread-49:123145571176448] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 08:57:24,539 [Thread-50:123145544900608] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 08:57:24,554 [Thread-51:123145550155776] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 08:57:24,557 [Thread-52:123145555410944] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 08:57:24,577 [Thread-53:123145544900608] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 08:57:24,580 [Thread-54:123145550155776] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 08:57:24,589 [Thread-55:123145555410944] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 08:57:24,599 [Thread-56:123145560666112] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 08:57:24,607 [Thread-57:123145565921280] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:09:10,122 [Thread-3:123145417261056] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 09:09:10,123 [Thread-4:123145422516224] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 09:09:10,127 [Thread-6:123145433026560] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:09:10,129 [Thread-5:123145427771392] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 09:09:10,131 [Thread-7:123145438281728] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:09:10,144 [Thread-8:123145412005888] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:09:10,147 [Thread-9:123145417261056] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:09:10,164 [Thread-10:123145412005888] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:09:10,175 [Thread-11:123145417261056] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:09:10,183 [Thread-12:123145422516224] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:09:10,185 [Thread-13:123145427771392] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:09:10,201 [Thread-14:123145412005888] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:09:10,211 [Thread-15:123145417261056] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:09:10,216 [Thread-16:123145422516224] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:09:11,003 [Thread-18:123145417261056] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 09:09:11,006 [Thread-20:123145427771392] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 09:09:11,008 [Thread-19:123145422516224] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 09:09:11,013 [Thread-21:123145433026560] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:09:11,017 [Thread-22:123145438281728] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:09:11,041 [Thread-23:123145412005888] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:09:11,058 [Thread-24:123145417261056] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:09:11,060 [Thread-25:123145422516224] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:09:11,063 [Thread-26:123145427771392] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:15:02,153 [Thread-2:123145533628416] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 21, in index
+    return render(request, 'index.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 205, in render
+    with context.bind_template(self):
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/contextlib.py", line 82, in __enter__
+    return next(self.gen)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/context.py", line 263, in bind_template
+    updates.update(processor(self.request))
+TypeError: global_setting() takes 0 positional arguments but 1 was given
+2017-07-13 09:15:20,597 [Thread-5:123145389985792] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 09:15:20,600 [Thread-4:123145384730624] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 09:15:20,603 [Thread-6:123145395240960] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:15:20,605 [Thread-7:123145400496128] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:15:20,609 [Thread-3:123145379475456] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 09:15:20,629 [Thread-8:123145374220288] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:15:20,651 [Thread-9:123145374220288] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:15:20,657 [Thread-10:123145379475456] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:15:20,694 [Thread-11:123145374220288] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:15:20,705 [Thread-12:123145379475456] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:15:20,707 [Thread-13:123145384730624] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:15:20,746 [Thread-14:123145389985792] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:15:20,751 [Thread-15:123145374220288] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:15:35,870 [Thread-2:123145581117440] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 21, in index
+    return render(request, 'index.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 205, in render
+    with context.bind_template(self):
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/contextlib.py", line 82, in __enter__
+    return next(self.gen)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/context.py", line 263, in bind_template
+    updates.update(processor(self.request))
+TypeError: global_setting() takes 0 positional arguments but 1 was given
+2017-07-13 09:15:48,863 [Thread-7:123145573130240] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:15:48,871 [Thread-4:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 09:15:48,880 [Thread-5:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 09:15:48,883 [Thread-3:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 09:15:48,884 [Thread-6:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:15:48,918 [Thread-8:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:15:48,920 [Thread-9:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:15:48,949 [Thread-10:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:15:48,965 [Thread-11:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:15:48,967 [Thread-12:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:15:48,970 [Thread-13:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:15:49,007 [Thread-14:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:15:49,035 [Thread-15:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:15:49,039 [Thread-16:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:16:30,113 [Thread-20:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 09:16:30,115 [Thread-19:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 09:16:30,117 [Thread-18:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 09:16:30,120 [Thread-22:123145573130240] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:16:30,124 [Thread-21:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:16:30,153 [Thread-23:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:16:30,170 [Thread-24:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:16:30,174 [Thread-25:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:16:30,176 [Thread-26:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:16:30,178 [Thread-27:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:16:30,213 [Thread-28:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:16:30,219 [Thread-29:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:16:30,221 [Thread-30:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:16:31,212 [Thread-32:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:16:31,214 [Thread-34:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 09:16:31,216 [Thread-35:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 09:16:31,217 [Thread-36:123145573130240] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:16:31,220 [Thread-33:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 09:16:31,232 [Thread-37:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:16:31,235 [Thread-38:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:16:31,250 [Thread-39:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:16:31,256 [Thread-40:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:16:31,262 [Thread-41:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:16:31,265 [Thread-42:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:16:31,277 [Thread-43:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:16:31,288 [Thread-44:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:16:31,707 [Thread-48:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 09:16:31,721 [Thread-49:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:16:31,723 [Thread-47:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 09:16:31,725 [Thread-50:123145573130240] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:16:31,728 [Thread-46:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 09:16:31,740 [Thread-51:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:16:31,741 [Thread-52:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:16:31,756 [Thread-53:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:16:31,761 [Thread-54:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:16:31,762 [Thread-55:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:16:31,767 [Thread-56:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:16:31,791 [Thread-57:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:16:31,798 [Thread-58:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:16:31,804 [Thread-59:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:16:31,809 [Thread-60:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:16:32,153 [Thread-62:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 09:16:32,157 [Thread-63:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 09:16:32,159 [Thread-64:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 09:16:32,161 [Thread-65:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:16:32,163 [Thread-66:123145573130240] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:16:32,193 [Thread-67:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:16:32,199 [Thread-68:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:16:32,201 [Thread-69:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:16:32,204 [Thread-70:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:16:32,665 [Thread-72:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:16:32,667 [Thread-73:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 09:16:32,669 [Thread-75:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 09:16:32,671 [Thread-76:123145573130240] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:16:32,674 [Thread-74:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 09:16:32,684 [Thread-77:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:16:32,687 [Thread-78:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:16:32,694 [Thread-79:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:16:32,709 [Thread-80:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:16:32,714 [Thread-81:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:16:32,717 [Thread-82:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:16:32,743 [Thread-83:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:16:32,751 [Thread-84:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:16:32,753 [Thread-85:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:16:32,756 [Thread-86:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:16:33,173 [Thread-88:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 09:16:33,186 [Thread-89:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 09:16:33,188 [Thread-90:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 09:16:33,193 [Thread-91:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:16:33,195 [Thread-92:123145573130240] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:16:33,215 [Thread-93:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:16:33,223 [Thread-94:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:16:33,229 [Thread-95:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:16:33,231 [Thread-96:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:16:33,604 [Thread-98:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 09:16:33,607 [Thread-99:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 09:16:33,609 [Thread-100:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 09:16:33,610 [Thread-101:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:16:33,613 [Thread-102:123145573130240] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:16:33,620 [Thread-103:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:16:33,633 [Thread-104:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:16:33,646 [Thread-105:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:16:33,651 [Thread-106:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:16:33,658 [Thread-107:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:16:33,660 [Thread-108:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:16:33,665 [Thread-109:123145573130240] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:16:33,999 [Thread-111:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 09:16:34,002 [Thread-114:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:16:34,004 [Thread-112:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 09:16:34,005 [Thread-115:123145573130240] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:16:34,008 [Thread-113:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 09:16:34,021 [Thread-116:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:16:34,023 [Thread-117:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:16:34,036 [Thread-118:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:16:34,047 [Thread-119:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:16:34,050 [Thread-120:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:16:34,052 [Thread-121:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:16:34,075 [Thread-122:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:16:34,078 [Thread-123:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:16:34,409 [Thread-125:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 09:16:34,411 [Thread-126:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 09:16:34,413 [Thread-127:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 09:16:34,416 [Thread-128:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:16:34,418 [Thread-129:123145573130240] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:16:34,432 [Thread-130:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:16:34,438 [Thread-131:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:16:34,447 [Thread-132:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:16:34,450 [Thread-133:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:16:34,742 [Thread-135:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 09:16:34,744 [Thread-136:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 09:16:34,746 [Thread-137:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 09:16:34,749 [Thread-138:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:16:34,750 [Thread-139:123145573130240] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:16:34,785 [Thread-142:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:16:34,786 [Thread-140:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:16:34,789 [Thread-141:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:16:34,794 [Thread-143:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:17:40,960 [Thread-145:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 09:17:40,973 [Thread-146:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 09:17:40,983 [Thread-147:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 09:17:40,995 [Thread-149:123145573130240] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:17:40,999 [Thread-148:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:17:41,070 [Thread-150:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:17:41,095 [Thread-151:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:17:41,098 [Thread-152:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:17:41,103 [Thread-153:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:17:41,106 [Thread-154:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:17:41,131 [Thread-155:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:17:42,121 [Thread-157:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 09:17:42,123 [Thread-159:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 09:17:42,126 [Thread-158:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 09:17:42,128 [Thread-160:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:17:42,131 [Thread-161:123145573130240] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:17:42,168 [Thread-162:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:17:42,170 [Thread-163:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:17:42,172 [Thread-164:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:17:42,174 [Thread-165:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:17:42,670 [Thread-167:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 09:17:42,673 [Thread-169:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 09:17:42,675 [Thread-168:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 09:17:42,677 [Thread-170:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:17:42,680 [Thread-171:123145573130240] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:17:42,716 [Thread-172:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:17:42,718 [Thread-173:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:17:42,719 [Thread-174:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:17:42,722 [Thread-175:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:17:43,202 [Thread-179:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 09:17:43,204 [Thread-178:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 09:17:43,206 [Thread-180:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:17:43,208 [Thread-181:123145573130240] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:17:43,211 [Thread-177:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 09:17:43,224 [Thread-182:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:17:43,226 [Thread-183:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:17:43,232 [Thread-184:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:17:43,247 [Thread-185:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:17:43,264 [Thread-186:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:17:43,279 [Thread-187:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:17:43,282 [Thread-188:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:17:43,286 [Thread-189:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:19:28,692 [Thread-191:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 09:19:28,696 [Thread-192:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 09:19:28,698 [Thread-194:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:19:28,700 [Thread-195:123145573130240] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:19:28,701 [Thread-193:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 09:19:28,709 [Thread-196:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:19:28,715 [Thread-197:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:19:28,733 [Thread-198:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:19:28,739 [Thread-199:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:19:28,741 [Thread-201:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:19:28,743 [Thread-200:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:19:28,751 [Thread-202:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:19:28,763 [Thread-203:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:19:28,765 [Thread-204:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:19:30,914 [Thread-206:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 09:19:30,915 [Thread-208:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 09:19:30,917 [Thread-207:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 09:19:30,919 [Thread-209:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:19:30,921 [Thread-210:123145573130240] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:19:30,949 [Thread-211:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:19:30,956 [Thread-212:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:19:30,962 [Thread-213:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:19:30,967 [Thread-214:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:19:34,529 [Thread-216:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-13 09:19:34,531 [Thread-217:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/index.css
+2017-07-13 09:19:34,533 [Thread-218:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/jquery.min.js
+2017-07-13 09:19:34,535 [Thread-219:123145567875072] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:19:34,538 [Thread-220:123145573130240] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:19:34,547 [Thread-221:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/sliders.js
+2017-07-13 09:19:34,552 [Thread-222:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:19:34,568 [Thread-223:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:19:34,579 [Thread-224:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-13 09:19:34,580 [Thread-225:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-07-13 09:19:34,582 [Thread-226:123145562619904] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-07-13 09:19:34,600 [Thread-227:123145546854400] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-07-13 09:19:34,612 [Thread-228:123145552109568] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-07-13 09:19:34,616 [Thread-229:123145557364736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-07-14 02:12:23,117 [Thread-18:123145334337536] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-07-14 02:14:32,443 [Thread-21:123145334337536] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 507, in parse
+    compile_func = self.tags[command]
+KeyError: 'STATICFILES_DIRS'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 21, in index
+    return render(request, 'index.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 21, in get_template
+    return engine.get_template(template_name)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 39, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/engine.py", line 162, in get_template
+    template, origin = self.find_template(template_name)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/engine.py", line 136, in find_template
+    name, template_dirs=dirs, skip=skip,
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loaders/base.py", line 44, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 191, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 230, in compile_nodelist
+    return parser.parse()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 509, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 571, in invalid_block_tag
+    "or load this tag?" % (token.lineno, command)
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 10: 'STATICFILES_DIRS'. Did you forget to register or load this tag?
+2017-07-14 02:14:51,981 [Thread-23:123145334337536] [django.request:152] [base:get_response] [WARNING]- Not Found: /css/base.css
+2017-07-14 02:16:18,609 [Thread-37:123145334337536] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 507, in parse
+    compile_func = self.tags[command]
+KeyError: 'static/css/base.css'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 21, in index
+    return render(request, 'index.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 21, in get_template
+    return engine.get_template(template_name)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 39, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/engine.py", line 162, in get_template
+    template, origin = self.find_template(template_name)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/engine.py", line 136, in find_template
+    name, template_dirs=dirs, skip=skip,
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loaders/base.py", line 44, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 191, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 230, in compile_nodelist
+    return parser.parse()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 509, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 571, in invalid_block_tag
+    "or load this tag?" % (token.lineno, command)
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 10: 'static/css/base.css'. Did you forget to register or load this tag?
+2017-07-14 02:16:47,987 [Thread-38:123145334337536] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 507, in parse
+    compile_func = self.tags[command]
+KeyError: "static'/css/base.css'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 21, in index
+    return render(request, 'index.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 21, in get_template
+    return engine.get_template(template_name)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 39, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/engine.py", line 162, in get_template
+    template, origin = self.find_template(template_name)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/engine.py", line 136, in find_template
+    name, template_dirs=dirs, skip=skip,
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loaders/base.py", line 44, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 191, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 230, in compile_nodelist
+    return parser.parse()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 509, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 571, in invalid_block_tag
+    "or load this tag?" % (token.lineno, command)
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 10: 'static'/css/base.css''. Did you forget to register or load this tag?
+2017-07-14 02:17:15,376 [Thread-49:123145334337536] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-07-14 02:24:29,482 [Thread-134:123145334337536] [django.request:152] [base:get_response] [WARNING]- Not Found: /login.html
+2017-07-14 02:25:12,293 [Thread-6:123145466884096] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/backends/utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.OperationalError: no such table: auth_user
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/views/decorators/cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/contrib/admin/sites.py", line 393, in login
+    return LoginView.as_view(**defaults)(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/utils/decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/views/decorators/debug.py", line 76, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/utils/decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/utils/decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/utils/decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/utils/decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/utils/decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/views/decorators/cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/utils/decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/contrib/auth/views.py", line 90, in dispatch
+    return super(LoginView, self).dispatch(request, *args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/views/generic/edit.py", line 182, in post
+    if form.is_valid():
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/forms/forms.py", line 183, in is_valid
+    return self.is_bound and not self.errors
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/forms/forms.py", line 175, in errors
+    self.full_clean()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/forms/forms.py", line 385, in full_clean
+    self._clean_form()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/forms/forms.py", line 412, in _clean_form
+    cleaned_data = self.clean()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/contrib/auth/forms.py", line 187, in clean
+    self.user_cache = authenticate(self.request, username=username, password=password)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/contrib/auth/__init__.py", line 70, in authenticate
+    user = _authenticate_with_backend(backend, backend_path, request, credentials)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/contrib/auth/__init__.py", line 115, in _authenticate_with_backend
+    return backend.authenticate(*args, **credentials)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/contrib/auth/backends.py", line 18, in authenticate
+    user = UserModel._default_manager.get_by_natural_key(username)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/contrib/auth/base_user.py", line 48, in get_by_natural_key
+    return self.get(**{self.model.USERNAME_FIELD: username})
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/query.py", line 374, in get
+    num = len(clone)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/query.py", line 232, in __len__
+    self._fetch_all()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/query.py", line 1118, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/query.py", line 53, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 886, in execute_sql
+    raise original_exception
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 876, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/backends/utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/backends/utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/utils/six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/backends/utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.OperationalError: no such table: auth_user
+2017-07-17 02:14:54,390 [Thread-6:123145554743296] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-07-17 02:24:08,647 [Thread-8:123145421524992] [django.request:152] [base:get_response] [WARNING]- Not Found: /index
+2017-07-18 04:51:29,926 [Thread-18:123145574359040] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-07-18 05:15:52,341 [Thread-2:123145513484288] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/blog/article/add/
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/backends/utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/cursors.py", line 166, in execute
+    result = self._query(query)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/connections.py", line 1057, in _read_query_result
+    result.read()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1048, "Column 'user_id' cannot be null")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/contrib/admin/options.py", line 551, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/utils/decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/views/decorators/cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/contrib/admin/sites.py", line 224, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1508, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/utils/decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/utils/decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/utils/decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1408, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1448, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/contrib/admin/options.py", line 979, in save_model
+    obj.save()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/base.py", line 807, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/base.py", line 837, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/base.py", line 923, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/base.py", line 962, in _do_insert
+    using=using, raw=raw)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/query.py", line 1076, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1099, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/backends/utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/backends/utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/utils/six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/backends/utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/cursors.py", line 166, in execute
+    result = self._query(query)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/connections.py", line 1057, in _read_query_result
+    result.read()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.IntegrityError: (1048, "Column 'user_id' cannot be null")
+2017-07-18 05:16:18,330 [Thread-52:123145513484288] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/blog/article/add/
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/backends/utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/cursors.py", line 166, in execute
+    result = self._query(query)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/connections.py", line 1057, in _read_query_result
+    result.read()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1048, "Column 'user_id' cannot be null")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/contrib/admin/options.py", line 551, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/utils/decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/views/decorators/cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/contrib/admin/sites.py", line 224, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1508, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/utils/decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/utils/decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/utils/decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1408, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/contrib/admin/options.py", line 1448, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/contrib/admin/options.py", line 979, in save_model
+    obj.save()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/base.py", line 807, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/base.py", line 837, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/base.py", line 923, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/base.py", line 962, in _do_insert
+    using=using, raw=raw)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/query.py", line 1076, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1099, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/backends/utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/backends/utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/utils/six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/backends/utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/cursors.py", line 166, in execute
+    result = self._query(query)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/connections.py", line 856, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/connections.py", line 1057, in _read_query_result
+    result.read()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/connections.py", line 1340, in read
+    first_packet = self.connection._read_packet()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/connections.py", line 1014, in _read_packet
+    packet.check_error()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/connections.py", line 393, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.IntegrityError: (1048, "Column 'user_id' cannot be null")
+2017-07-18 05:44:06,354 [Thread-82:123145526747136] [django.request:152] [base:get_response] [WARNING]- Not Found: /news.html
+2017-07-18 06:15:21,385 [Thread-18:123145361518592] [django.request:152] [base:get_response] [WARNING]- Not Found: /upload/avatar/default.png
+2017-07-18 06:15:57,798 [Thread-25:123145361518592] [django.request:152] [base:get_response] [WARNING]- Not Found: /upload/avatar/default.png
+2017-07-18 06:16:08,018 [Thread-26:123145361518592] [django.request:152] [base:get_response] [WARNING]- Not Found: /uploads/avatar/default.png
+2017-07-18 06:16:18,547 [Thread-32:123145361518592] [django.request:152] [base:get_response] [WARNING]- Not Found: /upload/avatar/default.png
+2017-07-19 02:51:51,984 [Thread-11:123145525141504] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-07-19 02:52:10,924 [Thread-37:123145525141504] [django.request:152] [base:get_response] [WARNING]- Not Found: /admin/upload/kindeditor
+2017-07-19 02:52:52,072 [Thread-45:123145525141504] [django.request:152] [base:get_response] [WARNING]- Not Found: /admin/upload/kindeditor
+2017-07-19 03:12:27,055 [Thread-10:123145577385984] [django.request:152] [base:get_response] [WARNING]- Not Found: /index
+2017-07-19 03:26:06,804 [Thread-30:123145534799872] [django.request:152] [base:get_response] [WARNING]- Not Found: /base.html
+2017-07-20 04:18:25,444 [Thread-3:123145324290048] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-07-24 05:58:53,266 [Thread-3:123145562554368] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-07-24 06:13:39,421 [Thread-32:123145343827968] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-07-24 06:14:46,626 [Thread-25:123145353019392] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-07-24 13:30:04,386 [Thread-19:123145553453056] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /archive/
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 507, in parse
+    compile_func = self.tags[command]
+KeyError: 'print(image)'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 60, in archive
+    return render(request, 'archive.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 207, in render
+    return self._render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 177, in render
+    return compiled_parent._render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 72, in render
+    result = block.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 204, in render
+    template = context.template.engine.get_template(template_name)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/engine.py", line 162, in get_template
+    template, origin = self.find_template(template_name)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/engine.py", line 136, in find_template
+    name, template_dirs=dirs, skip=skip,
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loaders/base.py", line 44, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 191, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 230, in compile_nodelist
+    return parser.parse()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 515, in parse
+    raise self.error(token, e)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 513, in parse
+    compiled_result = compile_func(self, token)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/defaulttags.py", line 827, in do_for
+    nodelist_loop = parser.parse(('empty', 'endfor',))
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 509, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 565, in invalid_block_tag
+    get_text_list(["'%s'" % p for p in parse_until], 'or'),
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 6: 'print(image)', expected 'empty' or 'endfor'. Did you forget to register or load this tag?
+2017-07-24 13:30:15,946 [Thread-23:123145553453056] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 507, in parse
+    compile_func = self.tags[command]
+KeyError: 'print(image.title)'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 41, in index
+    return render(request, 'index.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 207, in render
+    return self._render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 177, in render
+    return compiled_parent._render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 72, in render
+    result = block.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 204, in render
+    template = context.template.engine.get_template(template_name)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/engine.py", line 162, in get_template
+    template, origin = self.find_template(template_name)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/engine.py", line 136, in find_template
+    name, template_dirs=dirs, skip=skip,
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loaders/base.py", line 44, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 191, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 230, in compile_nodelist
+    return parser.parse()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 515, in parse
+    raise self.error(token, e)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 513, in parse
+    compiled_result = compile_func(self, token)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/defaulttags.py", line 827, in do_for
+    nodelist_loop = parser.parse(('empty', 'endfor',))
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 509, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 565, in invalid_block_tag
+    get_text_list(["'%s'" % p for p in parse_until], 'or'),
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 6: 'print(image.title)', expected 'empty' or 'endfor'. Did you forget to register or load this tag?
+2017-07-24 13:40:01,583 [Thread-51:123145553453056] [django.request:152] [base:get_response] [WARNING]- Not Found: /archive/base.html
+2017-07-24 14:13:11,175 [Thread-10:123145422675968] [django.request:152] [base:get_response] [WARNING]- Not Found: /portal.php
+2017-07-24 14:32:49,269 [Thread-2:123145444892672] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 44, in index
+    return render(request, 'index.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 205, in render
+    with context.bind_template(self):
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/contextlib.py", line 82, in __enter__
+    return next(self.gen)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/context.py", line 263, in bind_template
+    updates.update(processor(self.request))
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 28, in global_setting
+    click_count_list = Article.objects.values('click_count').order_by(Count('click_list'))
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/query.py", line 965, in order_by
+    obj.query.add_ordering(*field_names)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1677, in add_ordering
+    'it in annotate() is not allowed: %s' % item
+django.core.exceptions.FieldError: Using an aggregate in order_by() without also including it in annotate() is not allowed: Count(F(click_list), distinct=False)
+2017-07-24 14:33:12,194 [Thread-3:123145444892672] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 44, in index
+    return render(request, 'index.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 205, in render
+    with context.bind_template(self):
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/contextlib.py", line 82, in __enter__
+    return next(self.gen)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/context.py", line 263, in bind_template
+    updates.update(processor(self.request))
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 28, in global_setting
+    click_count_list = Article.objects.values('click_count').order_by(Count('click_list'))
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/query.py", line 965, in order_by
+    obj.query.add_ordering(*field_names)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1677, in add_ordering
+    'it in annotate() is not allowed: %s' % item
+django.core.exceptions.FieldError: Using an aggregate in order_by() without also including it in annotate() is not allowed: Count(F(click_list), distinct=False)
+2017-07-24 14:33:14,583 [Thread-4:123145444892672] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 44, in index
+    return render(request, 'index.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 205, in render
+    with context.bind_template(self):
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/contextlib.py", line 82, in __enter__
+    return next(self.gen)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/context.py", line 263, in bind_template
+    updates.update(processor(self.request))
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 28, in global_setting
+    click_count_list = Article.objects.values('click_count').order_by(Count('click_list'))
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/query.py", line 965, in order_by
+    obj.query.add_ordering(*field_names)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1677, in add_ordering
+    'it in annotate() is not allowed: %s' % item
+django.core.exceptions.FieldError: Using an aggregate in order_by() without also including it in annotate() is not allowed: Count(F(click_list), distinct=False)
+2017-07-24 14:35:25,851 [Thread-2:123145348964352] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 44, in index
+    return render(request, 'index.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 205, in render
+    with context.bind_template(self):
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/contextlib.py", line 82, in __enter__
+    return next(self.gen)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/context.py", line 263, in bind_template
+    updates.update(processor(self.request))
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 29, in global_setting
+    article_click_list = [Article.objects.get(pk=['click_count']) for click in click_count_list]
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 29, in <listcomp>
+    article_click_list = [Article.objects.get(pk=['click_count']) for click in click_count_list]
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/query.py", line 371, in get
+    clone = self.filter(*args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/query.py", line 784, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/query.py", line 802, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1250, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1276, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1210, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1104, in build_lookup
+    return final_lookup(lhs, rhs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/lookups.py", line 24, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/lookups.py", line 74, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py", line 966, in get_prep_value
+    return int(value)
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'list'
+2017-07-24 14:36:25,420 [Thread-3:123145492647936] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-07-24 14:38:12,694 [Thread-2:123145341112320] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 46, in index
+    return render(request, 'index.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 205, in render
+    with context.bind_template(self):
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/contextlib.py", line 82, in __enter__
+    return next(self.gen)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/context.py", line 263, in bind_template
+    updates.update(processor(self.request))
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 30, in global_setting
+    article_click_list = [Article.objects.get(pk=['click_count']) for click in click_count_list]
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 30, in <listcomp>
+    article_click_list = [Article.objects.get(pk=['click_count']) for click in click_count_list]
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/query.py", line 371, in get
+    clone = self.filter(*args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/query.py", line 784, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/query.py", line 802, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1250, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1276, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1210, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1104, in build_lookup
+    return final_lookup(lhs, rhs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/lookups.py", line 24, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/lookups.py", line 74, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py", line 966, in get_prep_value
+    return int(value)
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'list'
+2017-07-24 14:42:44,375 [Thread-2:123145574137856] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 45, in index
+    return render(request, 'index.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 205, in render
+    with context.bind_template(self):
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/contextlib.py", line 82, in __enter__
+    return next(self.gen)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/context.py", line 263, in bind_template
+    updates.update(processor(self.request))
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 30, in global_setting
+    article_click_list = Article.objects.get(pk=['click_count'])
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/query.py", line 371, in get
+    clone = self.filter(*args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/query.py", line 784, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/query.py", line 802, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1250, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1276, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1210, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/sql/query.py", line 1104, in build_lookup
+    return final_lookup(lhs, rhs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/lookups.py", line 24, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/lookups.py", line 74, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py", line 966, in get_prep_value
+    return int(value)
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'list'
+2017-07-24 14:46:12,013 [Thread-11:123145554280448] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 45, in index
+    return render(request, 'index.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 207, in render
+    return self._render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 154, in render
+    compiled_parent = self.get_parent(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 151, in get_parent
+    return self.find_template(parent, context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 131, in find_template
+    template_name, skip=history,
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/engine.py", line 136, in find_template
+    name, template_dirs=dirs, skip=skip,
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loaders/base.py", line 44, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 191, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 230, in compile_nodelist
+    return parser.parse()
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 515, in parse
+    raise self.error(token, e)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 513, in parse
+    compiled_result = compile_func(self, token)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/defaulttags.py", line 827, in do_for
+    nodelist_loop = parser.parse(('empty', 'endfor',))
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 486, in parse
+    raise self.error(token, e)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 484, in parse
+    filter_expression = self.compile_filter(token.contents)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 700, in __init__
+    "from '%s'" % (token[upto:], token))
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '['click_count']' from 'click['click_count']'
+2017-07-25 03:02:07,662 [Thread-3:123145389703168] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-07-25 03:02:23,179 [Thread-7:123145384448000] [django.request:152] [base:get_response] [WARNING]- Not Found: /base.html
+2017-07-25 03:35:11,300 [Thread-7:123145462779904] [django.request:152] [base:get_response] [WARNING]- Not Found: /article.html
+2017-07-25 03:37:37,385 [Thread-23:123145457524736] [django.request:152] [base:get_response] [WARNING]- Not Found: /article/1
+2017-07-25 03:37:43,464 [Thread-24:123145462779904] [django.request:152] [base:get_response] [WARNING]- Not Found: /article/2
+2017-07-25 03:37:45,677 [Thread-25:123145468035072] [django.request:152] [base:get_response] [WARNING]- Not Found: /article/3
+2017-07-25 03:37:48,207 [Thread-26:123145457524736] [django.request:152] [base:get_response] [WARNING]- Not Found: /article/4
+2017-07-25 03:38:04,297 [Thread-28:123145462779904] [django.request:152] [base:get_response] [WARNING]- Not Found: /article.html
+2017-07-25 03:40:59,339 [Thread-40:123145457524736] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view blog.views.article didn't return an HttpResponse object. It returned None instead.
+2017-07-25 03:43:55,119 [Thread-41:123145457524736] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view blog.views.article didn't return an HttpResponse object. It returned None instead.
+2017-07-25 03:43:57,323 [Thread-42:123145457524736] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view blog.views.article didn't return an HttpResponse object. It returned None instead.
+2017-07-25 03:51:42,959 [Thread-4:123145410760704] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view blog.views.article didn't return an HttpResponse object. It returned None instead.
+2017-07-25 03:54:34,990 [Thread-3:123145557635072] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 81, in article
+    return render(request, 'article.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 207, in render
+    return self._render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 177, in render
+    return compiled_parent._render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 72, in render
+    result = block.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/defaulttags.py", line 322, in render
+    return nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/defaulttags.py", line 458, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/urls/base.py", line 91, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/urls/resolvers.py", line 497, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'logout' not found. 'logout' is not a valid view function or pattern name.
+2017-07-25 03:55:26,914 [Thread-10:123145562890240] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 81, in article
+    return render(request, 'article.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 207, in render
+    return self._render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 177, in render
+    return compiled_parent._render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 72, in render
+    result = block.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/defaulttags.py", line 322, in render
+    return nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/defaulttags.py", line 458, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/urls/base.py", line 91, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/urls/resolvers.py", line 497, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'logout' not found. 'logout' is not a valid view function or pattern name.
+2017-07-25 03:57:42,752 [Thread-11:123145557635072] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 81, in article
+    return render(request, 'article.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 207, in render
+    return self._render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 177, in render
+    return compiled_parent._render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 72, in render
+    result = block.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/defaulttags.py", line 458, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/urls/base.py", line 91, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/urls/resolvers.py", line 497, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'comment_post' not found. 'comment_post' is not a valid view function or pattern name.
+2017-07-25 03:57:44,294 [Thread-12:123145562890240] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 81, in article
+    return render(request, 'article.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 207, in render
+    return self._render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 177, in render
+    return compiled_parent._render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 72, in render
+    result = block.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/defaulttags.py", line 458, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/urls/base.py", line 91, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/urls/resolvers.py", line 497, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'comment_post' not found. 'comment_post' is not a valid view function or pattern name.
+2017-07-25 03:58:42,016 [Thread-24:123145557635072] [django.request:152] [base:get_response] [WARNING]- Not Found: /article/base.html
+2017-07-25 04:01:29,736 [Thread-38:123145573400576] [django.request:152] [base:get_response] [WARNING]- Not Found: /index
+2017-07-25 05:49:29,455 [Thread-11:123145477267456] [django.request:152] [base:get_response] [WARNING]- Not Found: /article/article/
+2017-07-25 06:05:26,091 [Thread-5:123145410326528] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 99, in article
+    return render(request, 'article.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 207, in render
+    return self._render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 177, in render
+    return compiled_parent._render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 72, in render
+    result = block.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/defaulttags.py", line 458, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/urls/base.py", line 91, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/urls/resolvers.py", line 497, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'comment_post' not found. 'comment_post' is not a valid view function or pattern name.
+2017-07-25 06:08:52,293 [Thread-15:123145415581696] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 99, in article
+    return render(request, 'article.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 207, in render
+    return self._render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 177, in render
+    return compiled_parent._render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 72, in render
+    result = block.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/defaulttags.py", line 458, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/urls/base.py", line 91, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/urls/resolvers.py", line 497, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'comment_post' not found. 'comment_post' is not a valid view function or pattern name.
+2017-07-25 06:09:01,334 [Thread-18:123145410326528] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 99, in article
+    return render(request, 'article.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 207, in render
+    return self._render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 177, in render
+    return compiled_parent._render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 72, in render
+    result = block.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/defaulttags.py", line 458, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/urls/base.py", line 91, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/urls/resolvers.py", line 497, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'comment_post' not found. 'comment_post' is not a valid view function or pattern name.
+2017-07-25 06:21:05,935 [Thread-6:123145370845184] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/waka/Documents/python/web/blog_project/blog/views.py", line 102, in article
+    return render(request, 'article.html', locals())
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/backends/django.py", line 66, in render
+    return self.template.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 207, in render
+    return self._render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 177, in render
+    return compiled_parent._render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 199, in _render
+    return self.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/loader_tags.py", line 72, in render
+    result = block.nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/defaulttags.py", line 322, in render
+    return nodelist.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 990, in render
+    bit = node.render_annotated(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/base.py", line 957, in render_annotated
+    return self.render(context)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/template/defaulttags.py", line 458, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/urls/base.py", line 91, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "/Users/waka/Documents/python/web/blog_venv/lib/python3.6/site-packages/django/urls/resolvers.py", line 497, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'logout' not found. 'logout' is not a valid view function or pattern name.
+2017-07-26 02:56:25,890 [Thread-3:123145550114816] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-07-31 03:36:43,027 [Thread-3:123145455824896] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-07-31 07:10:07,498 [Thread-38:123145450569728] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-08-06 08:52:34,588 [Thread-24:123145348599808] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-08-09 15:02:05,379 [Thread-372:140659491067648] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-08-10 03:31:55,865 [Thread-773:140659507853056] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /logout
+Traceback (most recent call last):
+  File "/usr/lib/python3.4/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib/python3.4/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python3.4/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/jtwork/blog_project/blog/views.py", line 130, in do_logout
+    return redirect(request.META['HTTP_REFERER'])
+KeyError: 'HTTP_REFERER'
+2017-08-10 06:02:56,092 [Thread-794:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //phpmyadmin
+2017-08-10 06:02:56,190 [Thread-795:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //robots.txt
+2017-08-10 06:02:56,286 [Thread-796:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //data/admin/ver.txt
+2017-08-10 06:02:56,378 [Thread-797:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //data/admin/verifies.txt
+2017-08-10 06:02:56,465 [Thread-798:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //license.txt
+2017-08-10 06:02:56,559 [Thread-799:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //readme.txt
+2017-08-10 06:02:56,647 [Thread-800:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //help.txt
+2017-08-10 06:02:56,742 [Thread-801:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //readme.html
+2017-08-10 06:02:56,832 [Thread-802:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //wp-admin/css/colors-classic.css
+2017-08-10 06:02:56,918 [Thread-803:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //wp-admin/js/media-upload.dev.js
+2017-08-10 06:02:57,012 [Thread-804:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //wp-content/plugins/akismet/akismet.js
+2017-08-10 06:02:57,105 [Thread-805:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //wp-content/themes/classic/rtl.css
+2017-08-10 06:02:57,201 [Thread-806:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //wp-includes/css/buttons.css
+2017-08-10 06:02:57,295 [Thread-807:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //SCRIPT/common.js
+2017-08-10 06:02:57,388 [Thread-808:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //Ads/left.js
+2017-08-10 06:02:57,474 [Thread-809:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //Css/Style.css
+2017-08-10 06:02:57,566 [Thread-810:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //Images/ad.js
+2017-08-10 06:02:57,653 [Thread-811:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //Script/Html.js
+2017-08-10 06:02:57,739 [Thread-812:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //SiteFiles/Inner/Register/script.js
+2017-08-10 06:02:57,829 [Thread-813:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //License/index.php
+2017-08-10 06:02:57,917 [Thread-814:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //wcm/app/login.jsp
+2017-08-10 06:02:58,008 [Thread-815:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //help/
+2017-08-10 06:02:58,096 [Thread-816:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: //help/io_login.html
+2017-08-10 06:02:58,310 [Thread-818:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: /jboss.css
+2017-08-10 06:02:58,401 [Thread-819:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: /is_test
+2017-08-10 06:02:58,500 [Thread-820:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: /axis2
+2017-08-10 06:02:58,589 [Thread-821:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: /console/css/login.css
+2017-08-10 06:02:58,684 [Thread-822:140659853522688] [django.request:152] [base:get_response] [WARNING]- Not Found: /resource/js/cj.js
+2017-08-10 09:38:49,865 [Thread-840:140659507853056] [django.request:152] [base:get_response] [WARNING]- Not Found: //help
+2017-08-12 18:04:18,373 [Thread-1103:140659862177536] [django.request:152] [base:get_response] [WARNING]- Not Found: /phpmyadmin
+2017-08-12 18:04:18,440 [Thread-1104:140659862177536] [django.request:152] [base:get_response] [WARNING]- Not Found: /phpmyadmin
+2017-08-14 02:33:51,291 [Thread-1263:140659507853056] [django.request:152] [base:get_response] [WARNING]- Not Found: /.svn/all-wcprops
+2017-08-14 03:02:26,954 [Thread-1269:140659862177536] [django.request:152] [base:get_response] [WARNING]- Not Found: /.svn/all-wcprops
+2017-08-15 12:30:58,931 [Thread-1412:140659862177536] [django.request:152] [base:get_response] [WARNING]- Not Found: /.svn/all-wcprops
+2017-08-15 12:41:46,485 [Thread-1413:140659862177536] [django.request:152] [base:get_response] [WARNING]- Not Found: /.svn/all-wcprops
+2017-08-18 09:11:06,220 [Thread-1602:140659491067648] [django.request:152] [base:get_response] [WARNING]- Not Found: //console/j_security_check
+2017-08-20 11:06:41,754 [Thread-1678:140659491067648] [django.request:152] [base:get_response] [WARNING]- Not Found: /manager/html
+2017-08-21 13:49:03,673 [Thread-1723:140659491067648] [django.request:152] [base:get_response] [WARNING]- Not Found: /script
+2017-08-22 01:21:12,387 [Thread-1781:140659482674944] [django.request:152] [base:get_response] [WARNING]- Not Found: //console/j_security_check
+2017-08-22 01:47:39,880 [Thread-1782:140659482674944] [django.request:152] [base:get_response] [WARNING]- Not Found: /script
+2017-08-22 03:51:57,939 [Thread-1785:140659482674944] [django.request:152] [base:get_response] [WARNING]- Not Found: /axis-cgi/jpg/image.cgi
