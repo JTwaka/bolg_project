@@ -1669,3 +1669,91 @@ KeyError: 'HTTP_REFERER'
 2017-08-22 01:21:12,387 [Thread-1781:140659482674944] [django.request:152] [base:get_response] [WARNING]- Not Found: //console/j_security_check
 2017-08-22 01:47:39,880 [Thread-1782:140659482674944] [django.request:152] [base:get_response] [WARNING]- Not Found: /script
 2017-08-22 03:51:57,939 [Thread-1785:140659482674944] [django.request:152] [base:get_response] [WARNING]- Not Found: /axis-cgi/jpg/image.cgi
+2018-03-08 14:30:10,191 [Thread-19:140616002348800] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-03-08 14:36:37,956 [Thread-49:140422739388160] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/blog/article/add/
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/lib/python2.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/lib/python2.7/site-packages/django/contrib/admin/options.py", line 551, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/django/utils/decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/django/views/decorators/cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/django/contrib/admin/sites.py", line 224, in inner
+    return view(request, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/django/contrib/admin/options.py", line 1508, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "/usr/lib/python2.7/site-packages/django/utils/decorators.py", line 67, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/django/utils/decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/django/utils/decorators.py", line 63, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "/usr/lib/python2.7/site-packages/django/contrib/admin/options.py", line 1408, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "/usr/lib/python2.7/site-packages/django/contrib/admin/options.py", line 1448, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "/usr/lib/python2.7/site-packages/django/contrib/admin/options.py", line 979, in save_model
+    obj.save()
+  File "/usr/lib/python2.7/site-packages/django/db/models/base.py", line 806, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/usr/lib/python2.7/site-packages/django/db/models/base.py", line 836, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/usr/lib/python2.7/site-packages/django/db/models/base.py", line 922, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "/usr/lib/python2.7/site-packages/django/db/models/base.py", line 961, in _do_insert
+    using=using, raw=raw)
+  File "/usr/lib/python2.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/lib/python2.7/site-packages/django/db/models/query.py", line 1063, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "/usr/lib/python2.7/site-packages/django/db/models/sql/compiler.py", line 1099, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/lib/python2.7/site-packages/django/db/backends/utils.py", line 80, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/usr/lib/python2.7/site-packages/django/db/backends/utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python2.7/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/usr/lib/python2.7/site-packages/django/db/backends/utils.py", line 65, in execute
+    return self.cursor.execute(sql, params)
+  File "/usr/lib/python2.7/site-packages/django/db/backends/mysql/base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "/usr/lib64/python2.7/site-packages/pymysql/cursors.py", line 165, in execute
+    result = self._query(query)
+  File "/usr/lib64/python2.7/site-packages/pymysql/cursors.py", line 321, in _query
+    conn.query(q)
+  File "/usr/lib64/python2.7/site-packages/pymysql/connections.py", line 860, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib64/python2.7/site-packages/pymysql/connections.py", line 1061, in _read_query_result
+    result.read()
+  File "/usr/lib64/python2.7/site-packages/pymysql/connections.py", line 1349, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib64/python2.7/site-packages/pymysql/connections.py", line 1018, in _read_packet
+    packet.check_error()
+  File "/usr/lib64/python2.7/site-packages/pymysql/connections.py", line 384, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib64/python2.7/site-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+InternalError: (1366, u"Incorrect string value: '\\xE5\\x95\\x8A\\xE5\\x93\\x88...' for column 'content' at row 1")
+2018-03-09 00:15:05,910 [Thread-24:140326325647104] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-03-13 06:13:06,014 [Thread-24:139841340172032] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-03-13 06:36:03,016 [Thread-24:140488529614592] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-03-13 06:55:45,406 [Thread-24:139794916001536] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-03-13 06:58:05,747 [Thread-31:139794533312256] [django.request:152] [base:get_response] [WARNING]- Not Found: /ip_js.php
+2018-03-13 07:25:00,468 [Thread-3:140208122328832] [django.request:152] [base:get_response] [WARNING]- Not Found: /index.html
+2018-03-13 07:26:44,891 [Thread-9:140208088758016] [django.request:152] [base:get_response] [WARNING]- Not Found: /baidu_verify_iNlF6Id3cx.html
+2018-03-13 07:26:45,046 [Thread-10:140208088758016] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-03-13 07:30:27,687 [Thread-10:140019439023872] [django.request:152] [base:get_response] [WARNING]- Not Found: /asd
+2018-03-13 07:32:22,109 [Thread-18:140019455809280] [django.request:152] [base:get_response] [WARNING]- Not Found: /ad.html
+2018-03-13 07:33:43,848 [Thread-20:140019455809280] [django.request:152] [base:get_response] [WARNING]- Not Found: /archive.html
+2018-03-13 07:35:29,155 [Thread-23:140019087963904] [django.request:152] [base:get_response] [WARNING]- Not Found: /baidu_verify_iNlF6Id3cx.html
+2018-03-13 07:35:50,090 [Thread-24:140019087963904] [django.request:152] [base:get_response] [WARNING]- Not Found: /index.html
+2018-03-13 07:36:03,619 [Thread-25:140019087963904] [django.request:152] [base:get_response] [WARNING]- Not Found: /index.html
+2018-03-13 07:36:04,502 [Thread-26:140019087963904] [django.request:152] [base:get_response] [WARNING]- Not Found: /index
+2018-03-13 07:47:51,131 [Thread-49:140019439023872] [django.request:152] [base:get_response] [WARNING]- Not Found: /ip_js.php

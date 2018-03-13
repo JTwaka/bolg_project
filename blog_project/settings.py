@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*-
 """
 Django settings for blog_project project.
 
@@ -25,7 +26,7 @@ SECRET_KEY = 'zf@s&@%^wp7itsd@u^6s!h%xf2#voxh(har9s=^o!-to=v12@q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['123.206.121.228']
+ALLOWED_HOSTS = ['*','111.231.88.68']
 
 
 # Application definition

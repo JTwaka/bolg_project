@@ -13127,3 +13127,13 @@ django.template.base.VariableDoesNotExist: Failed lookup for key [name] in '<Reg
 
 2017-08-22 06:37:40,844 [Thread-1792:140659482674944] [django.server:124] [basehttp:log_message] [INFO]- code 400, message Bad HTTP/0.9 request type ('\x80\x00\x00(E¾_~\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86')
 2017-08-22 06:37:40,845 [Thread-1792:140659482674944] [django.server:124] [basehttp:log_message] [WARNING]- "  (E¾_~                                " 400 -
+2018-03-13 06:28:09,991 [Dummy-1:139973427746560] [django.db.backends:91] [utils:execute] [DEBUG]- (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+2018-03-13 06:28:09,992 [Dummy-1:139973427746560] [django.db.backends:91] [utils:execute] [DEBUG]- (0.000) SELECT VERSION(); args=None
+2018-03-13 06:28:10,020 [Dummy-1:139973427746560] [django.db.backends:91] [utils:execute] [DEBUG]- (0.001) SHOW FULL TABLES; args=None
+2018-03-13 06:28:10,022 [Dummy-1:139973427746560] [django.db.backends:91] [utils:execute] [DEBUG]- (0.001) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+Error: That port is already in use.
+2018-03-13 06:28:29,765 [Dummy-1:139954156951296] [django.db.backends:91] [utils:execute] [DEBUG]- (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+2018-03-13 06:28:29,765 [Dummy-1:139954156951296] [django.db.backends:91] [utils:execute] [DEBUG]- (0.000) SELECT VERSION(); args=None
+2018-03-13 06:28:29,796 [Dummy-1:139954156951296] [django.db.backends:91] [utils:execute] [DEBUG]- (0.001) SHOW FULL TABLES; args=None
+2018-03-13 06:28:29,798 [Dummy-1:139954156951296] [django.db.backends:91] [utils:execute] [DEBUG]- (0.001) SELECT `django_migrations`.`app`, `django_migrations`.`name` FROM `django_migrations`; args=()
+Error: That port is already in use.
